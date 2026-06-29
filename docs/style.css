@@ -71,3 +71,17 @@ body{margin:0;background:var(--bg-base);color:var(--text);font-family:var(--font
 @media (max-width:600px){
   .nexus-title{font-size:40px}
 }
+
+/* Collaboration page */
+.collab-header{background:linear-gradient(180deg, rgba(11,15,20,0.98), rgba(17,24,32,0.95));border-bottom:1px solid rgba(255,255,255,0.02)}
+.collab-header .container{display:flex;justify-content:space-between;align-items:center;padding:18px}
+.name-tag{font-family:var(--font-mono);color:var(--cyan);font-weight:700}
+.profile-link a{color:var(--text);text-decoration:none;border:1px solid rgba(255,255,255,0.04);padding:8px 12px;border-radius:6px}
+.collab-main h1{font-family:var(--font-mono);color:var(--cyan)}
+.partner-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:18px}
+.partner-card{background:var(--bg-card);padding:16px;border-radius:10px;border:1px solid var(--border);text-align:center}
+.partner-card img{max-width:120px;height:auto;margin:8px auto 12px;display:block}
+.partner-card h3{margin:8px 0;color:var(--text)}
+.partner-card .spec{color:var(--text-dim);margin-top:8px}
+.spec-area .spec-list{background:transparent;border:1px solid rgba(255,255,255,0.02);padding:12px;border-radius:8px}
+
