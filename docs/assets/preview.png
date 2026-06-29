@@ -1,0 +1,14 @@
+<!-- Placeholder SVG saved with .png extension. Replace with a real 1200x630 PNG screenshot named preview.png -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0f14" />
+  <rect x="48" y="56" width="1104" height="518" rx="8" fill="#0f1720" stroke="#1e2d3d" />
+  <text x="80" y="120" fill="#00c8ff" font-family="Cascadia Code, Consolas, monospace" font-size="42">NEXUS — Main Menu (Preview)</text>
+  <text x="80" y="180" fill="#cdd9e5" font-family="Segoe UI, sans-serif" font-size="18">One Terminal. All Your Tools.</text>
+  <rect x="80" y="220" width="1040" height="6" fill="#1e2d3d" />
+  <text x="80" y="260" fill="#6b8399" font-family="Cascadia Code, Consolas, monospace" font-size="16">ID    Name                 Port    Status   PID</text>
+  <text x="80" y="300" fill="#cdd9e5" font-family="Cascadia Code, Consolas, monospace" font-size="16">lbas  LBAS                 :5000   running  14832</text>
+  <text x="80" y="330" fill="#cdd9e5" font-family="Cascadia Code, Consolas, monospace" font-size="16">nutri Nutritional Tracker   :5001   running  15104</text>
+  <g fill="#00c8ff" font-family="Cascadia Code, Consolas, monospace" font-size="14">
+    <text x="80" y="420">[1] Launch New App   [2] Stop an App   [3] Restart an App</text>
+  </g>
+</svg>
